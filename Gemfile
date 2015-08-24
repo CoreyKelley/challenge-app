@@ -9,6 +9,7 @@ gem 'geocoder'
 gem 'activeadmin', '~>1.0.0.pre1'
 gem 'jquery-rails'
 gem 'turbolinks'
+gem 'fiddle'
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
